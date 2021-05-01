@@ -7,6 +7,14 @@ To use this plugin, add number_to_words as a [dependency in your pubspec.yaml](h
 
 ## Example
 
+At This time (01/may/2021) Package not Updated.So for Null safety problem please Add dependncy in pubsec.yaml
+
+number_to_words:
+    git:
+      url: git://github.com/RR-Reddy/NumberToWords.git
+      ref: master
+
+
 ```
 import 'package:number_to_words/number_to_words.dart';
 
